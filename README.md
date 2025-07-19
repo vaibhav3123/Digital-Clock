@@ -4,7 +4,7 @@ A simple and responsive digital clock built using **HTML**, **CSS**, and **JavaS
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live clock](https://your-demo-link.com)
+👉 [Click here to view the live clock](https://vaibhav3123.github.io/Digital-Clock/)
 
 ## 🚀 Features
 
@@ -15,6 +15,6 @@ A simple and responsive digital clock built using **HTML**, **CSS**, and **JavaS
 
 ## 📷 Preview
 
-![Digital Clock Screenshot](./screenshot.png)
+![Digital Clock Screenshot](screenshot .png)
 
 
