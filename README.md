@@ -15,5 +15,6 @@ A simple and responsive digital clock built using **HTML**, **CSS**, and **JavaS
 
 ## 📷 Preview
 
-![Digital Clock Screenshot](screenshot.png)
+![Digital Clock Screenshot](./screenshot.png)
+
 
