@@ -11,10 +11,6 @@ A simple and responsive digital clock built using **HTML**, **CSS**, and **JavaS
 - Displays current time in **HH:MM:SS** format
 - Real-time update every second
 - Responsive and clean design
-- Built with pure HTML, CSS, and JavaScript (no libraries)
-
-## 📷 Preview
-
-![Digital Clock Screenshot](screenshot .png)
+- Built with pure HTML, CSS, and JavaScript
 
 
