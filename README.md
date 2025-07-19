@@ -6,8 +6,6 @@ A simple and responsive digital clock built using **HTML**, **CSS**, and **JavaS
 
 👉 [Click here to view the live clock](https://your-demo-link.com)
 
-<!-- Replace the above URL with your actual GitHub Pages or hosting link -->
-
 ## 🚀 Features
 
 - Displays current time in **HH:MM:SS** format
